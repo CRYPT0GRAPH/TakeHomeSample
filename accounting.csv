@@ -1,0 +1,20 @@
+Trans ID,Order,Trans Type,Amount,Trans Date,Name
+1,005-567-R,Obligation,500,10/15/2020,John Barrow
+2,077-456-Z,Payment,1000.01,6/15/2020,Carol Hughes
+3,245-001-D,Payment,400,9/21/2020,Buck Henry
+4,145-001-R,Payment,200,11/9/2020,Shannon Odulles
+5,145-001-R,Payment,200,10/9/2020,Shannon Odulles
+6,077-456-Z,Obligation,7000,1/1/2020,Carol Hughes
+7,077-456-Z,Payment,1000,1/15/2020,Carol Hughes
+8,245-001-D,Payment,200,9/1/2020,Buck Henry
+9,077-456-Z,Payment,1000,1/23/2020,Carol Hughes
+10,145-001-R,Payment,200,9/9/2020,Shannon Odulles
+11,077-456-Z,Payment,1000,2/15/2020,Carol Hughes
+12,005-567-R,Payment,250,10/25/2020,John Barrow
+13,145-001-R,Payment,200,8/9/2020,Shannon Odulles
+14,077-456-Z,Payment,1000,3/14/2020,Carol Hughes
+15,245-001-D,Obligation,300,9/15/2020,Buck Henry
+16,077-456-Z,Payment,2000,5/4/2020,Carol Hughes
+17,145-001-R,Obligation,1500,7/9/2020,Shannon Odulles
+18,245-001-D,Obligation,300,8/26/2020,Buck Henry
+19,005-567-R,Payment,240,10/30/2020,John Barrow
