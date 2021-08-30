@@ -22,4 +22,4 @@ that accomplishes the following:
 
 
 ## Follow-Up Question
- Accounting has approved this business proccess but feels that generating the CSV file and running the application can be fully automated. What questions would you ask Accounting? What changes and/or technologies would you use to accomplish this?
+ Accounting has approved this business proccess but feels that generating the CSV file and running the application can be fully automated. What questions would you ask Accounting? What changes and/or technologies would you use to accomplish this? What technologies could you use to make this information more visually appealing?
